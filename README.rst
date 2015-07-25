@@ -8,7 +8,9 @@ PyImaging
                                                                               
 Description
 -----------                                 
-
+  
+  :PyImaging: An image effects processing programme, with severals functionnalities to modify the loaded images and images files mergin functionalities. 
+  
   PyImaging support severals images files formats to load into the programm   
   
   for effects applying:                                                       
