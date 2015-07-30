@@ -204,9 +204,7 @@ Installation
 
     $ su root                                                                    
     
-    $ password:                                                                  
-    
-    $                                                                            
+    password:                                                                  
     
     # ./install.sh                                                               
                                                                               
@@ -216,9 +214,7 @@ Installation
 
     $ su root                                                                    
     
-    $ password:                                                                  
-    
-    $                                                                            
+    password:                                                                  
     
     # ./uninstall.sh                                                             
                                                                               
@@ -227,15 +223,16 @@ Installation
 Copyright
 ---------                                   
 
-  PyImaging an image treatment programme with severals effects.                
+  **PyImaging** an image treatment programme with severals effects.                
  
   And image files mergin capabilities.                                         
- 
+  
   Copyright (C) 2014 Eddie Bruggemann                                          
+  
                                                                               
   This file is part of PyImaging.                                              
   
-  PyImaging is free software: you can redistribute it and/or modify            
+  **PyImaging** is free software: you can redistribute it and/or modify            
   
   it under the terms of the GNU General Public License as published by         
   
@@ -244,7 +241,7 @@ Copyright
   (at your option) any later version.                                          
                                                                               
  
-  PyImaging is distributed in the hope that it will be useful,                 
+  **PyImaging** is distributed in the hope that it will be useful,                 
   
   but WITHOUT ANY WARRANTY; without even the implied warranty of               
  
@@ -254,5 +251,5 @@ Copyright
                                                                               
   You should have received a copy of the GNU General Public License            
   
-  along with PyImaging. If not, see <http://www.gnu.org/licenses/>             
+  along with **PyImaging**. If not, see <http://www.gnu.org/licenses/>             
                                              
